@@ -1,6 +1,12 @@
 This code is based on ssllabs.py
 This code provide the capability to add domains to CSV and extract data for multiple certificates. 
 
+
+# Use:
+- Add domains to domains.csv.sample
+- rename domains.csv.sample to domains.csv
+- execute main.py
+
 # ssllabs.py
 Python module for the Qualys SSL Labs Server Test
 
