@@ -1,0 +1,4 @@
+*.csv
+*.pbix
+export/*.json
+__pycache__
